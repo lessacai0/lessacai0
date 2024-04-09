@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lessacai0
-- 👀 I’m interested in Java, angular, pyhton e javascript
+- 👀 I’m interested in Java, angular, pyhton and javascript
 - 🌱 I’m currently learning Java and Angular
 
 <!---
